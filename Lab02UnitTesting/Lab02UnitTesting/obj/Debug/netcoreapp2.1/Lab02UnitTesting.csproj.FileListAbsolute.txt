@@ -1,0 +1,11 @@
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab02-Unit-Testing\Lab02UnitTesting\Lab02UnitTesting\obj\Debug\netcoreapp2.1\Lab02UnitTesting.csprojAssemblyReference.cache
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab02-Unit-Testing\Lab02UnitTesting\Lab02UnitTesting\obj\Debug\netcoreapp2.1\Lab02UnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab02-Unit-Testing\Lab02UnitTesting\Lab02UnitTesting\obj\Debug\netcoreapp2.1\Lab02UnitTesting.AssemblyInfoInputs.cache
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab02-Unit-Testing\Lab02UnitTesting\Lab02UnitTesting\obj\Debug\netcoreapp2.1\Lab02UnitTesting.AssemblyInfo.cs
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab02-Unit-Testing\Lab02UnitTesting\Lab02UnitTesting\bin\Debug\netcoreapp2.1\Lab02UnitTesting.deps.json
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab02-Unit-Testing\Lab02UnitTesting\Lab02UnitTesting\bin\Debug\netcoreapp2.1\Lab02UnitTesting.runtimeconfig.json
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab02-Unit-Testing\Lab02UnitTesting\Lab02UnitTesting\bin\Debug\netcoreapp2.1\Lab02UnitTesting.runtimeconfig.dev.json
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab02-Unit-Testing\Lab02UnitTesting\Lab02UnitTesting\bin\Debug\netcoreapp2.1\Lab02UnitTesting.dll
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab02-Unit-Testing\Lab02UnitTesting\Lab02UnitTesting\bin\Debug\netcoreapp2.1\Lab02UnitTesting.pdb
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab02-Unit-Testing\Lab02UnitTesting\Lab02UnitTesting\obj\Debug\netcoreapp2.1\Lab02UnitTesting.dll
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab02-Unit-Testing\Lab02UnitTesting\Lab02UnitTesting\obj\Debug\netcoreapp2.1\Lab02UnitTesting.pdb
