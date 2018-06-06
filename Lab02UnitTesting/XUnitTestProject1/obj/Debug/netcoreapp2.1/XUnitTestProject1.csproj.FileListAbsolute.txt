@@ -1,0 +1,17 @@
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab02-Unit-Testing\Lab02UnitTesting\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab02-Unit-Testing\Lab02UnitTesting\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab02-Unit-Testing\Lab02UnitTesting\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab02-Unit-Testing\Lab02UnitTesting\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.deps.json
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab02-Unit-Testing\Lab02UnitTesting\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.runtimeconfig.json
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab02-Unit-Testing\Lab02UnitTesting\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.runtimeconfig.dev.json
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab02-Unit-Testing\Lab02UnitTesting\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.dll
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab02-Unit-Testing\Lab02UnitTesting\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.pdb
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab02-Unit-Testing\Lab02UnitTesting\XUnitTestProject1\bin\Debug\netcoreapp2.1\Lab02UnitTesting.dll
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab02-Unit-Testing\Lab02UnitTesting\XUnitTestProject1\bin\Debug\netcoreapp2.1\Lab02UnitTesting.pdb
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab02-Unit-Testing\Lab02UnitTesting\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.csprojAssemblyReference.cache
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab02-Unit-Testing\Lab02UnitTesting\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab02-Unit-Testing\Lab02UnitTesting\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.AssemblyInfoInputs.cache
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab02-Unit-Testing\Lab02UnitTesting\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.AssemblyInfo.cs
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab02-Unit-Testing\Lab02UnitTesting\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.csproj.CopyComplete
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab02-Unit-Testing\Lab02UnitTesting\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.dll
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab02-Unit-Testing\Lab02UnitTesting\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.pdb
