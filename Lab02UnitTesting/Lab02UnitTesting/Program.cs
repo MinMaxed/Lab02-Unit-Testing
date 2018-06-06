@@ -91,9 +91,9 @@ namespace Lab02UnitTesting
             return "withdrawal complete";
             }
             //catching for invalid input, could not find a more specific exception type
-            catch (Exception e)
+            catch (FormatException)
             {
-                return e.Message;
+                throw;
             }
         }
 
