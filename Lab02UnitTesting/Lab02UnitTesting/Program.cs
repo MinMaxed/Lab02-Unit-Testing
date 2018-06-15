@@ -92,11 +92,11 @@ namespace Lab02UnitTesting
             //catching for invalid input, could not find a more specific exception type
             catch (FormatException)
             {
-                throw;
+                Console.WriteLine("Could not complete transaction");
             }
             finally
             {
-                Console.WriteLine("You don't have that much in your account");
+                Console.WriteLine($"{Program.Balance} ");
             }
         }
 
