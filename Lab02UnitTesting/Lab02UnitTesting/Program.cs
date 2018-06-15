@@ -31,7 +31,6 @@ namespace Lab02UnitTesting
                     //see current balance only, no changes to values
                     case 1:
                         SeeBalance();
-                        Console.WriteLine($"You have ${Balance} in your account.");
                         break;
 
                     //Withdraw an amount between 0 and the current balance
@@ -39,7 +38,6 @@ namespace Lab02UnitTesting
                         Console.WriteLine("How much would you like to withdraw?");
                         Double.TryParse(Console.ReadLine(), out userAmount);
                         Withdraw(userAmount);
-                        Console.WriteLine($"Your current balance is ${Balance}.");
                         break;
 
                     //Deposit a positive amount of money
@@ -47,7 +45,6 @@ namespace Lab02UnitTesting
                         Console.WriteLine("How much would you like to deposit?");
                         Double.TryParse(Console.ReadLine(), out userAmount);
                         Deposit(userAmount);
-                        Console.WriteLine($"Your current balance is ${Balance}.");
                         break;
 
                     //exits the application
@@ -67,9 +64,9 @@ namespace Lab02UnitTesting
             }
         }
 
-        public static string SeeBalance()
+        public static void SeeBalance()
         {
-            return $"You have ${Balance} in your account.";
+            Console.WriteLine($"You have ${Balance} in your account.");
         }
 
         //withdraw a positive amount of money that's less than the current balance
@@ -92,11 +89,11 @@ namespace Lab02UnitTesting
             //catching for invalid input, could not find a more specific exception type
             catch (FormatException)
             {
-                Console.WriteLine("Could not complete transaction");
+                throw;
             }
             finally
             {
-                Console.WriteLine($"{Program.Balance} ");
+                SeeBalance();
             }
         }
 
@@ -120,6 +117,11 @@ namespace Lab02UnitTesting
             catch (Exception e)
             {
                 return e.Message;
+            }
+            finally
+            {
+                SeeBalance();
+
             }
         }
 
