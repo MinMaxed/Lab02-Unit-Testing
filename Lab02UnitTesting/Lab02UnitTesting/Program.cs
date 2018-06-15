@@ -86,7 +86,6 @@ namespace Lab02UnitTesting
                 {
                     return "You don't have that much in your account";
                 }
-
                 return "withdrawal complete";
             }
             
@@ -97,7 +96,7 @@ namespace Lab02UnitTesting
             }
             finally
             {
-                Console.WriteLine("write real code here");
+                Console.WriteLine("You don't have that much in your account");
             }
         }
 
