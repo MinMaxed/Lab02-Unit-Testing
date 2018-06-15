@@ -77,29 +77,30 @@ namespace Lab02UnitTesting
         {
             try
             {
+                if (amount < Balance && amount > 0)
+                {
+                    Balance -= amount;
+                }
 
-            if (amount < Balance && amount > 0)
-            {
-                Balance -= amount;
+                if (amount >= Balance || amount <= 0)
+                {
+                    return "You don't have that much in your account";
+                }
+                return "withdrawal complete";
             }
-
-            if (amount >= Balance || amount <= 0)
-            {
-                return "You don't have that much in your account";
-            }
-
-            return "withdrawal complete";
-            }
+            
             //catching for invalid input, could not find a more specific exception type
             catch (FormatException)
             {
                 throw;
             }
+            finally
+            {
+                Console.WriteLine("You don't have that much in your account");
+            }
         }
 
-        //deposit a non-negative amount of money
-
-       
+        //deposit a non-negative amount of money     
         public static string Deposit(double amount)
         {
             try
@@ -113,14 +114,14 @@ namespace Lab02UnitTesting
                     return "Does not compute";
                 }
                 return "Funds successfully added to your account";
-                }
+            }
 
             //catching for invalid input, could not find a more specific exception type
             catch (Exception e)
             {
-               return e.Message;
+                return e.Message;
             }
         }
-    
+
     }
 }
